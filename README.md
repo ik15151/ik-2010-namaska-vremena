@@ -1,7 +1,4 @@
-# ik-namaska-vremena
-
-
-**Tema:** Namaska vremena (jacija-namaz, duha-namaz, zadnja trećina noći)
+# **Tema:** Namaska vremena (jacija-namaz, duha-namaz, zadnja trećina noći)
 
 **Oblast:** Razvoj programskih rješenja (RPR)
 
@@ -12,6 +9,8 @@
 **Alat:** Visual Studio 2010
 
 **Godina:** 2010
+
+*Samostalan rad*
 
 ---
 
