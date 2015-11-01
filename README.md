@@ -1,4 +1,4 @@
-# **Tema:** Namaska vremena (jacija-namaz, duha-namaz, zadnja trećina noći)
+# Namaska vremena (jacija-namaz, duha-namaz, zadnja trećina noći)
 
 **Oblast:** Razvoj programskih rješenja (RPR)
 
