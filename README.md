@@ -9,7 +9,7 @@
 
 **Alat:** Visual Studio 2010
 
-**Godina:** 2010-2011
+**Godina:** 2010
 
 
 ---
